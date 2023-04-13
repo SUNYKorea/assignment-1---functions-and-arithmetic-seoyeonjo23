@@ -1,8 +1,15 @@
 # Name: Seoyeon Jo
 # SBUID: 115935813
-
+##################### SCORE ######################
+#######  Score:  3/10
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
+# your output
+# (base) D:\CSE 101 Ass1\Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27>D:/anaconda/python.exe "d:/CSE 101 Ass1/Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27/seoyeonjo23/Homework_1.py"
+# Wear Scarf -- wrong
+# The area of the triangle is : 32.0 - correct, its perimeter is : 84.0-- wrong
+# The area of the polygon is : 2.580488365589943-- wrong
 # ---------------------------- Exercise I ---------------------------------------
 # ----------------- Convert Fahrenheit to Celsius -------------------------------
 # TODO: Complete the implementation of fahrenheit2celsius () and what_to_wear(). 
