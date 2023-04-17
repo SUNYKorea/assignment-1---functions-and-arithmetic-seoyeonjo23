@@ -1,7 +1,7 @@
 # Name: Seoyeon Jo
 # SBUID: 115935813
 ##################### SCORE ######################
-#######  Score:  3/10
+#######  Score:  7/10
 #################################################
 # Remove the ellipses (...) when writing your solutions.
 
